@@ -1,0 +1,11 @@
+com/publiccms/common/redis/hibernate/RedisDomainDataStorageAccessImpl.class
+com/publiccms/common/redis/RedisClient.class
+com/publiccms/common/redis/mybatis/MybatisRedisCache.class
+com/publiccms/common/redis/hibernate/RedisRegionFactory.class
+com/publiccms/common/redis/hibernate/SingletonRedisRegionFactory.class
+com/publiccms/common/redis/serializer/StringSerializer.class
+com/publiccms/common/redis/RedisCacheEntity.class
+com/publiccms/common/redis/hibernate/RedisStrategyRegistrationProviderImpl.class
+com/publiccms/common/redis/serializer/Serializer.class
+com/publiccms/common/redis/serializer/BinarySerializer.class
+com/publiccms/common/tools/RedisUtils.class

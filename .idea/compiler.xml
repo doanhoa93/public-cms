@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="publiccms" />
+        <module name="publiccms-analyzer" />
+        <module name="publiccms-common" />
+        <module name="publiccms-core" />
+        <module name="publiccms-j2cache" />
+        <module name="publiccms-oauth" />
+        <module name="publiccms-redis" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="publiccms" target="1.8" />
+      <module name="publiccms-analyzer" target="1.8" />
+      <module name="publiccms-analyzer_main" target="1.8" />
+      <module name="publiccms-analyzer_test" target="1.8" />
+      <module name="publiccms-common" target="1.8" />
+      <module name="publiccms-common_main" target="1.8" />
+      <module name="publiccms-common_test" target="1.8" />
+      <module name="publiccms-core" target="1.8" />
+      <module name="publiccms-core_main" target="1.8" />
+      <module name="publiccms-core_test" target="1.8" />
+      <module name="publiccms-j2cache" target="1.8" />
+      <module name="publiccms-j2cache_main" target="1.8" />
+      <module name="publiccms-j2cache_test" target="1.8" />
+      <module name="publiccms-oauth" target="1.8" />
+      <module name="publiccms-oauth_main" target="1.8" />
+      <module name="publiccms-oauth_test" target="1.8" />
+      <module name="publiccms-parent" target="1.8" />
+      <module name="publiccms-redis" target="1.8" />
+      <module name="publiccms-redis_main" target="1.8" />
+      <module name="publiccms-redis_test" target="1.8" />
+      <module name="publiccms_main" target="1.8" />
+      <module name="publiccms_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

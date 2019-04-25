@@ -1,0 +1,10 @@
+/home/doan.quang.hoa/Project/PublicCMS/publiccms-parent/publiccms-oauth/src/main/java/com/publiccms/view/pojo/oauth/OauthConfig.java
+/home/doan.quang.hoa/Project/PublicCMS/publiccms-parent/publiccms-oauth/src/main/java/com/publiccms/view/pojo/oauth/OauthUser.java
+/home/doan.quang.hoa/Project/PublicCMS/publiccms-parent/publiccms-oauth/src/main/java/com/publiccms/view/pojo/oauth/OauthAccess.java
+/home/doan.quang.hoa/Project/PublicCMS/publiccms-parent/publiccms-oauth/src/main/java/com/publiccms/common/api/oauth/Oauth.java
+/home/doan.quang.hoa/Project/PublicCMS/publiccms-parent/publiccms-oauth/src/main/java/com/publiccms/logic/component/oauth/WechatOauthComponent.java
+/home/doan.quang.hoa/Project/PublicCMS/publiccms-parent/publiccms-oauth/src/main/java/com/publiccms/view/directive/oauth/OauthListDirective.java
+/home/doan.quang.hoa/Project/PublicCMS/publiccms-parent/publiccms-oauth/src/main/java/com/publiccms/logic/component/oauth/QQOauthComponent.java
+/home/doan.quang.hoa/Project/PublicCMS/publiccms-parent/publiccms-oauth/src/main/java/com/publiccms/controller/web/oauth/OauthController.java
+/home/doan.quang.hoa/Project/PublicCMS/publiccms-parent/publiccms-oauth/src/main/java/com/publiccms/logic/component/oauth/WeiboOauthComponent.java
+/home/doan.quang.hoa/Project/PublicCMS/publiccms-parent/publiccms-oauth/src/main/java/com/publiccms/common/base/oauth/AbstractOauth.java

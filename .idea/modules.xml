@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/publiccms/publiccms.iml" filepath="$PROJECT_DIR$/publiccms/publiccms.iml" group="publiccms" />
+      <module fileurl="file://$PROJECT_DIR$/publiccms-analyzer/publiccms-analyzer.iml" filepath="$PROJECT_DIR$/publiccms-analyzer/publiccms-analyzer.iml" group="publiccms-analyzer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/publiccms-analyzer/publiccms-analyzer_main.iml" filepath="$PROJECT_DIR$/.idea/modules/publiccms-analyzer/publiccms-analyzer_main.iml" group="publiccms-analyzer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/publiccms-analyzer/publiccms-analyzer_test.iml" filepath="$PROJECT_DIR$/.idea/modules/publiccms-analyzer/publiccms-analyzer_test.iml" group="publiccms-analyzer" />
+      <module fileurl="file://$PROJECT_DIR$/publiccms-common/publiccms-common.iml" filepath="$PROJECT_DIR$/publiccms-common/publiccms-common.iml" group="publiccms-common" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/publiccms-common/publiccms-common_main.iml" filepath="$PROJECT_DIR$/.idea/modules/publiccms-common/publiccms-common_main.iml" group="publiccms-common" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/publiccms-common/publiccms-common_test.iml" filepath="$PROJECT_DIR$/.idea/modules/publiccms-common/publiccms-common_test.iml" group="publiccms-common" />
+      <module fileurl="file://$PROJECT_DIR$/publiccms-core/publiccms-core.iml" filepath="$PROJECT_DIR$/publiccms-core/publiccms-core.iml" group="publiccms-core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/publiccms-core/publiccms-core_main.iml" filepath="$PROJECT_DIR$/.idea/modules/publiccms-core/publiccms-core_main.iml" group="publiccms-core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/publiccms-core/publiccms-core_test.iml" filepath="$PROJECT_DIR$/.idea/modules/publiccms-core/publiccms-core_test.iml" group="publiccms-core" />
+      <module fileurl="file://$PROJECT_DIR$/publiccms-j2cache/publiccms-j2cache.iml" filepath="$PROJECT_DIR$/publiccms-j2cache/publiccms-j2cache.iml" group="publiccms-j2cache" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/publiccms-j2cache/publiccms-j2cache_main.iml" filepath="$PROJECT_DIR$/.idea/modules/publiccms-j2cache/publiccms-j2cache_main.iml" group="publiccms-j2cache" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/publiccms-j2cache/publiccms-j2cache_test.iml" filepath="$PROJECT_DIR$/.idea/modules/publiccms-j2cache/publiccms-j2cache_test.iml" group="publiccms-j2cache" />
+      <module fileurl="file://$PROJECT_DIR$/publiccms-oauth/publiccms-oauth.iml" filepath="$PROJECT_DIR$/publiccms-oauth/publiccms-oauth.iml" group="publiccms-oauth" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/publiccms-oauth/publiccms-oauth_main.iml" filepath="$PROJECT_DIR$/.idea/modules/publiccms-oauth/publiccms-oauth_main.iml" group="publiccms-oauth" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/publiccms-oauth/publiccms-oauth_test.iml" filepath="$PROJECT_DIR$/.idea/modules/publiccms-oauth/publiccms-oauth_test.iml" group="publiccms-oauth" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/publiccms-parent.iml" filepath="$PROJECT_DIR$/.idea/modules/publiccms-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/publiccms-redis/publiccms-redis.iml" filepath="$PROJECT_DIR$/publiccms-redis/publiccms-redis.iml" group="publiccms-redis" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/publiccms-redis/publiccms-redis_main.iml" filepath="$PROJECT_DIR$/.idea/modules/publiccms-redis/publiccms-redis_main.iml" group="publiccms-redis" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/publiccms-redis/publiccms-redis_test.iml" filepath="$PROJECT_DIR$/.idea/modules/publiccms-redis/publiccms-redis_test.iml" group="publiccms-redis" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/publiccms/publiccms_main.iml" filepath="$PROJECT_DIR$/.idea/modules/publiccms/publiccms_main.iml" group="publiccms" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/publiccms/publiccms_test.iml" filepath="$PROJECT_DIR$/.idea/modules/publiccms/publiccms_test.iml" group="publiccms" />
+    </modules>
+  </component>
+</project>

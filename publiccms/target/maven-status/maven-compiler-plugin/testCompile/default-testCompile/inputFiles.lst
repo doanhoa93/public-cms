@@ -1,0 +1,11 @@
+/home/doan.quang.hoa/Project/PublicCMS/publiccms-parent/publiccms/src/test/java/com/publiccms/common/generator/AnalyzerDictGenerator.java
+/home/doan.quang.hoa/Project/PublicCMS/publiccms-parent/publiccms/src/test/java/com/publiccms/common/generator/entity/EntityColumn.java
+/home/doan.quang.hoa/Project/PublicCMS/publiccms-parent/publiccms/src/test/java/com/publiccms/common/generator/entity/EntityCondition.java
+/home/doan.quang.hoa/Project/PublicCMS/publiccms-parent/publiccms/src/test/java/com/publiccms/common/generator/mybatis/ServicePlugin.java
+/home/doan.quang.hoa/Project/PublicCMS/publiccms-parent/publiccms/src/test/java/com/publiccms/common/generator/SourceGenerator.java
+/home/doan.quang.hoa/Project/PublicCMS/publiccms-parent/publiccms/src/test/java/com/publiccms/test/CommentImportTest.java
+/home/doan.quang.hoa/Project/PublicCMS/publiccms-parent/publiccms/src/test/java/com/publiccms/test/SysSiteServiceTest.java
+/home/doan.quang.hoa/Project/PublicCMS/publiccms-parent/publiccms/src/test/java/com/publiccms/common/generator/Utf8BomRemover.java
+/home/doan.quang.hoa/Project/PublicCMS/publiccms-parent/publiccms/src/test/java/com/publiccms/common/generator/PassowrdGenerator.java
+/home/doan.quang.hoa/Project/PublicCMS/publiccms-parent/publiccms/src/test/java/com/publiccms/common/generator/LicenseGenerator.java
+/home/doan.quang.hoa/Project/PublicCMS/publiccms-parent/publiccms/src/test/java/com/publiccms/common/generator/MybatisGenerator.java

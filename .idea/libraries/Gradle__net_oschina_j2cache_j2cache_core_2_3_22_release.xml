@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: net.oschina.j2cache:j2cache-core:2.3.22-release">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/oschina/j2cache/j2cache-core/2.3.22-release/j2cache-core-2.3.22-release.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

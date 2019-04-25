@@ -1,0 +1,11 @@
+com/publiccms/common/generator/Utf8BomRemover.class
+com/publiccms/common/generator/SourceGenerator.class
+com/publiccms/common/generator/AnalyzerDictGenerator.class
+com/publiccms/common/generator/MybatisGenerator.class
+com/publiccms/test/CommentImportTest.class
+com/publiccms/common/generator/entity/EntityColumn.class
+com/publiccms/common/generator/mybatis/ServicePlugin.class
+com/publiccms/common/generator/entity/EntityCondition.class
+com/publiccms/test/SysSiteServiceTest.class
+com/publiccms/common/generator/LicenseGenerator.class
+com/publiccms/common/generator/PassowrdGenerator.class

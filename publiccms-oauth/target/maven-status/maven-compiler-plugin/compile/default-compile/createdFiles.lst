@@ -1,0 +1,10 @@
+com/publiccms/logic/component/oauth/WeiboOauthComponent.class
+com/publiccms/logic/component/oauth/WechatOauthComponent.class
+com/publiccms/common/base/oauth/AbstractOauth.class
+com/publiccms/view/directive/oauth/OauthListDirective.class
+com/publiccms/view/pojo/oauth/OauthConfig.class
+com/publiccms/view/pojo/oauth/OauthAccess.class
+com/publiccms/common/api/oauth/Oauth.class
+com/publiccms/view/pojo/oauth/OauthUser.class
+com/publiccms/controller/web/oauth/OauthController.class
+com/publiccms/logic/component/oauth/QQOauthComponent.class

@@ -1,0 +1,11 @@
+/home/doan.quang.hoa/Project/PublicCMS/publiccms-parent/publiccms-redis/src/main/java/com/publiccms/common/redis/RedisCacheEntity.java
+/home/doan.quang.hoa/Project/PublicCMS/publiccms-parent/publiccms-redis/src/main/java/com/publiccms/common/redis/hibernate/SingletonRedisRegionFactory.java
+/home/doan.quang.hoa/Project/PublicCMS/publiccms-parent/publiccms-redis/src/main/java/com/publiccms/common/redis/serializer/BinarySerializer.java
+/home/doan.quang.hoa/Project/PublicCMS/publiccms-parent/publiccms-redis/src/main/java/com/publiccms/common/redis/hibernate/RedisDomainDataStorageAccessImpl.java
+/home/doan.quang.hoa/Project/PublicCMS/publiccms-parent/publiccms-redis/src/main/java/com/publiccms/common/redis/mybatis/MybatisRedisCache.java
+/home/doan.quang.hoa/Project/PublicCMS/publiccms-parent/publiccms-redis/src/main/java/com/publiccms/common/redis/serializer/StringSerializer.java
+/home/doan.quang.hoa/Project/PublicCMS/publiccms-parent/publiccms-redis/src/main/java/com/publiccms/common/redis/hibernate/RedisStrategyRegistrationProviderImpl.java
+/home/doan.quang.hoa/Project/PublicCMS/publiccms-parent/publiccms-redis/src/main/java/com/publiccms/common/redis/hibernate/RedisRegionFactory.java
+/home/doan.quang.hoa/Project/PublicCMS/publiccms-parent/publiccms-redis/src/main/java/com/publiccms/common/tools/RedisUtils.java
+/home/doan.quang.hoa/Project/PublicCMS/publiccms-parent/publiccms-redis/src/main/java/com/publiccms/common/redis/serializer/Serializer.java
+/home/doan.quang.hoa/Project/PublicCMS/publiccms-parent/publiccms-redis/src/main/java/com/publiccms/common/redis/RedisClient.java
